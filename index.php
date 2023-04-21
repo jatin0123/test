@@ -1,3 +1,3 @@
 <?php
-echo '<h1>Hello, I am a PHP Developer!<h2>';
+echo '<h1>Hello, I am a PHP Developer!<h1>';
 ?>
