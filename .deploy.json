@@ -1,5 +1,5 @@
 	{
-	  "DEPLOYPATH" : "/home/jatin/git/alkesh",
+	  "DEPLOYPATH" : "/home/jatin/public_html",
 	  "task" :  [
 		"index.php"
 	  ]
