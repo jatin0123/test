@@ -1,6 +1,6 @@
 	{
 	  "DEPLOYPATH" : "/home/jatin/public_html",
 	  "task" :  [
-		"index.php"
+		"test.php"
 	  ]
 	}
