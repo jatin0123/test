@@ -1,0 +1,6 @@
+{
+  "DEPLOYPATH" : "/home/jatin/public_html/",  // DEPLOYPATH : where changes will be deployed
+  "task" :  {
+    "0" : "index.php",   // This will deploy only index.php file
+  }
+}
